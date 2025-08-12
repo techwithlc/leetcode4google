@@ -1,0 +1,10 @@
+# Ignore everything in parent directories
+../*
+../../*
+Desktop/
+.DS_Store
+*.log
+node_modules/
+.env
+.vscode/
+.idea/
